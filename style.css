@@ -25,11 +25,12 @@ h1 {
 
     .btn {
     background-color: rgb(235, 233, 231);
-    border-radius: 10px;
+    border-radius: 7px;
+    border: 1px solid;
     border-color: rgb(138, 123, 112);
     color: rgb(138, 123, 112);
     margin: 1rem;
-    padding: 1.5rem 2rem;
+    padding: 7rem;
     font-size: 1.2rem;
     font-family: inherit;
     cursor: pointer;
