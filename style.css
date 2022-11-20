@@ -23,17 +23,17 @@ h1 {
     margin-bottom: 1em; 
 }
 
-    .btn {
-    background-color: rgb(235, 233, 231);
-    border-radius: 7px;
-    border: 1px solid;
-    border-color: rgb(138, 123, 112);
-    color: rgb(138, 123, 112);
-    margin: 1rem;
-    padding: 7rem;
-    font-size: 1.2rem;
-    font-family: inherit;
-    cursor: pointer;
+.btn {
+background-color: rgb(235, 233, 231);
+border-radius: 7px;
+border: 1px solid;
+border-color: rgb(138, 123, 112);
+color: rgb(138, 123, 112);
+margin: 1rem;
+padding: 1.5rem 3rem;
+font-size: 1.2rem;
+font-family: inherit;
+cursor: pointer;
 }
 
 .btn:hover {
