@@ -1,5 +1,4 @@
 
-
 *{
     box-sizing: border-box;
 }
@@ -17,7 +16,14 @@ body {
     margin: 0;
 }
 
-.btn {
+h1 {
+    color: rgb(138, 123, 112);
+    border-color: rgb(138, 123, 112);
+    font-size: 4em;
+    margin-bottom: 1em; 
+}
+
+    .btn {
     background-color: rgb(235, 233, 231);
     border-radius: 5px;
     border: none;
